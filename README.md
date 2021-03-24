@@ -47,14 +47,16 @@ Here's a walkthrough of implemented user stories:
  https://www.w3schools.com/cssref/css_colors.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-One challenge that I faced was implementing the decreasing time for sound cues as the player progressed through the game. In order to properly address this feature I had to keep the value of progress in mind. I eventually discovered an optimal timing interval that was not too difficult to play with but not too easy through play-testing the game myself a couple of times. I also had trouble with finding colors I wanted to use for my CSS code, and to overcome that I refered to w3school's CSS reference page, which helped me a lot.
+
+One challenge that I faced was implementing the decreasing time for sound cues as the player progressed through the game. In order to properly address this feature I had to keep the value of progress in mind. I eventually discovered an optimal timing interval that was not too difficult to play with but not too easy through play-testing the game myself a couple of times. I also had trouble with finding colors I wanted to use for my CSS code, and to overcome that I refered to w3school's CSS reference page, which helped me a lot. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-After completing this submission I would say that it helped garnered my interest for front-end web development. How does CSS and HTML translate into the fully developed user interfaces that webdevs create for their websites?
+
+After completing this submission I would say that it helped garnered my interest for front-end web development. How does CSS and HTML translate into the fully developed user interfaces that webdevs create for their websites? I am very interested in learning more about what goes into the design of vibrant ui spaces and how I can go about generating designs like that for my own personal websites or projects. This submission has also allowed me to have even more respect for front end developers, who have to take both the aesthetics of the interface and its functionality into account when designing. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
 
+If I had more time to work on this project, I would dedicate my time to adding a couple additional features I had in mind. One thing I would attempt to do is implement a high-score system of sorts, which stores the user's past scores between each instance of playing the game and displays them at the end screen. A difficulty setting would be fun to create as well, with higher difficulties consisting of "levels" with more buttons. I was also thinking of increasing the difficulty by making the tones less discernible from one another, which would also test how accurate the player's hearing is. 
 
 
 ## License
